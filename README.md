@@ -1,2 +1,1 @@
-# resume
-Public resume
+Resume coming soon ...
